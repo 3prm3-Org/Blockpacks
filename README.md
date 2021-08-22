@@ -14,4 +14,4 @@
 https://github.com/KnowYourKnot/ChiselDecor/issues/4#issuecomment-788125673
 
 # Extra Info
-You can replace the en_us.json and pt_br.json files with @Seikm 's by deleting the en_us.json and pt_br.json and renaming the en_us_seikm.json and pt_br_seikm.json en_us.json and pt_br.json respectively 
+You can replace the en_us.json and pt_br.json files with @Seikm 's by deleting the en_us.json and pt_br.json and renaming the en_us_seikm.json and pt_br_seikm.json en_us.json and pt_br.json respectively.
